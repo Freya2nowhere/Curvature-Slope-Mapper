@@ -1,0 +1,5 @@
+{
+  "name": "Curvature & Slope Mapper",
+  "description": "A technical tool for converting between original, DHIVE, and NDS curvature and slope values using standard mapping formulas.",
+  "requestFramePermissions": []
+}
